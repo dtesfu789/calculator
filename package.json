@@ -1,0 +1,22 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "calculator webapp using nodejs/expressjs",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dtesfu789/calculator.git"
+  },
+  "author": "Dereje Tesfu Fantaye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dtesfu789/calculator/issues"
+  },
+  "homepage": "https://github.com/dtesfu789/calculator#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
